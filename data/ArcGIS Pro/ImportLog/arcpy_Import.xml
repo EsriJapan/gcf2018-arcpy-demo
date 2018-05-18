@@ -1,0 +1,49 @@
+<ImportMXDLog>	<Messages>
+		<FileName>C:\Users\ej2108.ESRIJ\Desktop\ArcPy\mxd\arcpy.mxd</FileName>
+		<Message>
+			<Name></Name>
+			<MessageType>注意</MessageType>
+			<Severity>高</Severity>
+			<Description>ベースマップ レイヤーをサービスに直接公開することはできません</Description>
+			<Code>37</Code>
+			<ComponentName>ベースマップ</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>注意</MessageType>
+			<Severity>中</Severity>
+			<Description>データ フレームのクリップはまだサポートされていないため、インポートされたドキュメントから削除されました。</Description>
+			<Code>20049</Code>
+			<ComponentName>arcpy</ComponentName>
+			<ComponentType>レイアウト</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>注意</MessageType>
+			<Severity>中</Severity>
+			<Description>ラベル調整ルールが改善されたため、ArcGIS Pro にインポートされた凡例の表示が異なる場合があります。デフォルトの表示設定の変更が必要な場合があります。</Description>
+			<Code>20038</Code>
+			<ComponentName>arcpy</ComponentName>
+			<ComponentType>レイアウト</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>注意</MessageType>
+			<Severity>中</Severity>
+			<Description>レイヤーまたはレイアウト エレメントは、誤った太字や斜体スタイルで描画したテキスト シンボルを使用しています</Description>
+			<Code>20008</Code>
+			<ComponentName>東京都の市区町村</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>注意</MessageType>
+			<Severity>中</Severity>
+			<Description>mxd とプロジェクト間の違いにより、インポート プロセス中に一部のダイナミック テキスト タグが変更された可能性があります。</Description>
+			<Code>20044</Code>
+			<ComponentName>arcpy</ComponentName>
+			<ComponentType>レイアウト</ComponentType>
+</Message>
+</Messages>
+</ImportMXDLog>
